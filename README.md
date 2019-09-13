@@ -4,6 +4,9 @@ This project shows the state of the four modern foreign languages French, German
 
 **Some Insights:**
 
+Infographic (designed on canva.com)
+![alt tag](https://github.com/PaulineStach/ModernForeignLanguagesInIrishSecondarySchool/blob/master/Images/Infographic%20MFL.png)
+
 Percentage of Students per Subject
 ![alt tag](https://github.com/PaulineStach/ModernForeignLanguagesInIrishSecondarySchool/blob/master/Images/SchoolsAndStudentsPerSubjects.png)
 
@@ -20,6 +23,3 @@ Regression: Student Numbers in JC/LC per Subject
 Gender: Numbers of Girls and Boys Doing a MFL in Their JC/LC
 ![alt tag](https://github.com/PaulineStach/ModernForeignLanguagesInIrishSecondarySchool/blob/master/Images/JCGirlsBoys.png)
 ![alt tag](https://github.com/PaulineStach/ModernForeignLanguagesInIrishSecondarySchool/blob/master/Images/LCGirlsBoys.png)
-
-Infographic (designed on canva.com)
-![alt tag](https://github.com/PaulineStach/ModernForeignLanguagesInIrishSecondarySchool/blob/master/Images/Infographic%20MFL.png)
